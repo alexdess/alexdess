@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f8b6b5f26d1c9e7e31d8b87b018d3e44",
-"index.html": "daf7481ad4607ad6ad81db6e345be7c9",
-"/": "daf7481ad4607ad6ad81db6e345be7c9",
-"main.dart.js": "dec1645eec2ff6da2f0868b1746ba623",
+"index.html": "eead46fc810c868c768a1d34bb73c7bf",
+"/": "eead46fc810c868c768a1d34bb73c7bf",
+"main.dart.js": "63d53e8fa01385da48618d0f1ab05536",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -14,13 +15,13 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "946bb59ca4972caf55549e7d30078b32",
 "assets/AssetManifest.json": "801125fca546f506babac9af4ec061ba",
-"assets/NOTICES": "8e330d6598c008f3256d1de42ecdbc19",
+"assets/NOTICES": "b99ffbf6593cc41071ffe627d4bbd2f2",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
@@ -30,8 +31,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
