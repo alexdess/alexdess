@@ -81470,7 +81470,7 @@ A.Pa.prototype={
 G(a,b){var s=null,r=A.avb(s,B.a_3),q=$.bU,p=(q==null?$.bU=$.eA():q).eF(0,"[DEFAULT]")
 A.cA(p,$.ef(),!1)
 q=A.a5h(new A.dd(p))
-r=new A.Ak(new A.CS(new A.a9d(),q.a9m(q.guN().iB()),s,t.fZ),"Flutter Demo",r,A.a([B.Gx,B.GB,B.Gv],t.a9),A.a([B.UW,B.UX],t.ss),s)
+r=new A.Ak(new A.CS(new A.a9d(),q.a9m(q.guN().iB()),s,t.fZ),"AFBB mini-referee management",r,A.a([B.Gx,B.GB,B.Gv],t.a9),A.a([B.UW,B.UX],t.ss),s)
 return A.aNr(new A.xU(r,new A.a9e(),r,s,t.He),new A.a9f(),t.m0)}}
 A.a9f.prototype={
 $1(a){var s=$.bU,r=(s==null?$.bU=$.eA():s).eF(0,"[DEFAULT]")
